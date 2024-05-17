@@ -1,0 +1,2 @@
+Stock Price Prediction Using Random Forest
+Developed a predictive model for stock prices using historical data and a Random Forest Regressor. The project involved data cleaning, visualization, model training, and evaluation. Achieved a high model accuracy score, demonstrating proficiency in machine learning and financial data analysis. Successfully forecasted future stock prices, showcasing strong analytical and predictive modeling skills.
